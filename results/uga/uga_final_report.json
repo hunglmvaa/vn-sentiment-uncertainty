@@ -1,0 +1,19 @@
+{
+  "alpha": 0.8,
+  "beta": 0.4,
+  "stratification": "entropy (Phương án B)",
+  "thresholds_note": "D_high: entropy ≥ 0.8 (~max_softmax < 0.60); D_med: entropy [0.4, 0.8); D_low: entropy < 0.4 (~max_softmax > 0.82)",
+  "rounds": [
+    {
+      "round": 1,
+      "dhigh_frac": 20.2,
+      "n_augmented": 11131,
+      "f1": 0.7573118729343821,
+      "accuracy": 0.755117513267627,
+      "uncertain_rate": 0.3100833965125095,
+      "mean_entropy": 0.5573030114173889,
+      "ece": 0.036413784412112175
+    }
+  ],
+  "total_rounds": 1
+}

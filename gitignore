@@ -1,0 +1,43 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large model / checkpoint artifacts
+results/checkpoints/
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Hugging Face / cache
+.cache/
+.huggingface/
+hf_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Private or non-redistributable raw data
+data/raw/*
+!data/raw/README.md
+
+# Optional: keep generated augmented data out of Git if too large
+# data/augmented/*
+# !data/augmented/README.md

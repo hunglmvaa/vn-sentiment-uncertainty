@@ -1,0 +1,15 @@
+{
+  "C3_ece": 9.47,
+  "C3_pass": true,
+  "C3_note": "ECE = 9.47% | PASS",
+  "C4_dhigh_n": 959,
+  "C4_dhigh_frac": 20.2,
+  "C4_pass": true,
+  "C4_note": "D_high fraction = 20.20% | PASS",
+  "C5_class_counts": [
+    270,
+    432,
+    257
+  ],
+  "C5_imbalance_ratio": 1.68,
+  "C5_pass": 

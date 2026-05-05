@@ -1,0 +1,6 @@
+﻿Field,Value
+alpha,0.8
+beta,0.4
+stratification,entropy (Phuong an B)
+thresholds_note,"D_high: entropy >= 0.8 (~max_softmax < 0.60); D_med: entropy [0.4, 0.8); D_low: entropy < 0.4 (~max_softmax > 0.82)"
+total_rounds,1

@@ -1,0 +1,23 @@
+{
+  "full_vs_baseline": {
+    "observed_diff": 0.10833257727348511,
+    "p_value": 0.0,
+    "significant": true,
+    "alpha": 0.05,
+    "n_resamples": 10000
+  },
+  "full_vs_PhoBERT + Synonym Replacement": {
+    "observed_diff": 0.008069638908099197,
+    "p_value": 0.1058,
+    "significant": false,
+    "alpha": 0.05,
+    "n_resamples": 10000
+  },
+  "full_vs_PhoBERT + Back-Translation": {
+    "observed_diff": 0.10820989398001946,
+    "p_value": 0.0,
+    "significant": true,
+    "alpha": 0.05,
+    "n_resamples": 10000
+  }
+}

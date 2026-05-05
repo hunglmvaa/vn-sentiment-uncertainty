@@ -1,0 +1,3 @@
+﻿Strategy,F1-score (%)
+Standard Augmentation (SR + BT),86.47 ± 0.97
+Uncertainty-Guided Augmentation,75.73

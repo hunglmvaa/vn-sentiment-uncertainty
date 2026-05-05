@@ -1,0 +1,4 @@
+Uncertainty Stratum,Samples,% of Test,Acc. Baseline (%),Acc. Full Model (%),Δ Acc. (pp)
+Low (H<0.3),4223,64.0,86.4,92.0,5.6
+Medium (0.3≤H<0.65),1327,20.1,61.5,79.0,17.5
+High (H≥0.65),1044,15.8,48.8,74.0,25.3

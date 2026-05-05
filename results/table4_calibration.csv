@@ -1,0 +1,3 @@
+Model,ECE ↓ (%)
+PhoBERT - Baseline,13.72 ± 2.66
+PhoBERT + SR + BT + MC-Dropout,6.72 ± 0.90

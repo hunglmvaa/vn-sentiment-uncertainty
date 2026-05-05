@@ -1,0 +1,12 @@
+﻿Metric,Value,Note
+C1_proxy_bimodal_frac_pct,44.21,Bimodal fraction in D_high = 44.21%
+C2_manual_inspection,,Manual inspection required: sample augmented sentences in D_high and verify sentiment polarity preservation.
+C3_ece_pct,9.47,ECE = 9.47% | PASS
+C3_pass,True,
+C4_dhigh_n,959,
+C4_dhigh_frac_pct,20.2,D_high fraction = 20.20% | PASS
+C4_pass,True,
+C5_class_counts,"[270, 432, 257]",
+C5_imbalance_ratio,1.68,Imbalance ratio = 1.68 | PASS
+C5_pass,True,
+UGA_recommended,True,UGA conditions passed.

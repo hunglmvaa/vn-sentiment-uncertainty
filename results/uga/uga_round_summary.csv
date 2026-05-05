@@ -1,0 +1,2 @@
+﻿Round,D_high_frac_pct,N_augmented,Macro_F1,Accuracy,Uncertain_Rate,Mean_Entropy,ECE,Macro_F1_pct,Accuracy_pct,Uncertain_Rate_pct,ECE_pct
+1,20.2,11131,0.7573118729343821,0.755117513267627,0.3100833965125095,0.5573030114173889,0.036413784412112175,75.73,75.51,31.01,3.64

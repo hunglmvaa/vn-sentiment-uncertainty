@@ -1,0 +1,7 @@
+﻿Data Split,Total,Negative,Neutral,Positive,Increase Rate,File
+Original Training,5259,1616,2052,1591,-,data\raw\train.csv
++ Synonym Replacement (SR),3501,1070,1445,986,66.6% of original,data\augmented\train_sr.csv
++ Back-Translation (BT),412,97,216,99,7.8% of original,data\augmented\train_bt.csv
+SR + BT Combined,9172,2783,3713,2676,+74.4%,train + train_sr + train_bt
+Validation,667,203,263,201,-,data\raw\val.csv
+Test,668,204,263,201,-,data\raw\test.csv
